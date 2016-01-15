@@ -195,3 +195,21 @@ Mexican:
     30 Rue des Bernardins - 75005 Paris
 
     Tacos de la Merced.
+
+## Not in Paris
+
+### Brazil
+
+-   Chuanxiangyuan Restaurante (川香园餐馆 )
+
+    R. Barão de Iguape, 47 - Liberdade, São Paulo - SP
+
+    Eat the big fish dishes, they are worth it. https://en.wikipedia.org/wiki/Fuqi_feipian was not very good.
+
+    Free tea was good.
+
+    Rice could be better.
+
+    Owners are actually from https://en.wikipedia.org/wiki/Tianjin , not Sichuan.
+
+    Last checked: 2016/01/09
