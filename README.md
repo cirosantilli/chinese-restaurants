@@ -1,12 +1,21 @@
 # Chinese Restaurants in Paris
 
+1.  [Introduction](#introduction)
+1.  [Similar lists](#similar-lists)
+1.  [How to order](#how-to-order)
+1.  [List](#list)
+1.  [Tier 2](#tier-2)
+1.  [Non-Chinese](#non-chinese)
+1.  [Not in Paris](#not-in-paris)
+    1.  [Brazil](#brazil)
+
 ## Introduction
 
 My girlfriend is a Chinese foodie, and she showed me what *real* Chinese food is. Here go the best.
 
 Paris has one of the largest Chinese communities outside of China, and there must be around 10~20 restaurants which serve food unlike anything you have ever eaten.
 
-## Other similar lists
+## Similar lists
 
 - <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
 - <http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/>
