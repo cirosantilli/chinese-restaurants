@@ -2,9 +2,40 @@
 
 ## Introduction
 
-My girlfriend is Chinese, and she showed me what *real* Chinese food is. Here go the best.
+My girlfriend is a Chinese foodie, and she showed me what *real* Chinese food is. Here go the best.
 
 Paris has one of the largest Chinese communities outside of China, and there must be around 10~20 restaurants which serve food unlike anything you have ever eaten.
+
+## Other similar lists
+
+- <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
+- <http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/>
+
+## How to find good restaurants
+
+- talk to Chinese foodies
+- Chinese foodie websites
+- sinophile foodie websites (like this)
+
+Sites like Google reviews and TripAdvisor are useless for this and will recommend you places in which non-Chinese like to eat at.
+
+If you go out on the street by yourself, you are very unlikely to find really good Chinese food.
+
+If there are only Chinese people inside the restaurant, it is a good indicator that it might be good.
+
+-   **Traiteurs** are simpler restaurants that let you see pre-made foods in a glass showcase for you to choose how big your portions will be.
+
+    They are the best way to eat a cheap and balanced meal in Paris, but I have never found one that serves exceptional Chinese food.
+
+-   **"Asian"** restaurants which mix either of Chinese / Japanese / Vietnamese / Thai are very rarely very good.
+
+    Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good).
+
+    It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
+
+    Just beware of "Sichuan" restaurants: their cuisine is so well known even in the West that I've seen many not so good restaurants that describe themselves like that, even if the owners are from another region. But there are many good ones which really are from there as well.
+
+Beware of restaurant *owner changes*: if the menu looks a bit different, it has likely happened.
 
 ## How to order
 
@@ -20,34 +51,11 @@ For all restaurants, ask the waiter for suggestions. Tell him that you:
 
 -   if the restaurant is from some region, ask for dishes from the region, and which are different from other regions.
 
-    E.g., I was once given jiaozi (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant... Yes, I do believe Tibetans also eat jiaozi :-)
+    I was once given [jiaozi](https://en.wikipedia.org/wiki/Jiaozi) (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant... Yes, I do believe Tibetans also eat jiaozi! :-)
+
+-   Speaking a little Chinese goes a long way towards convincing the owners that you can handle the real thing.
 
 Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
-
-## How to find good restaurants
-
-- talk to Chinese foodies
-- Chinese foodie websites
-- sinophile foodie websites (like this)
-
-Sites like Google reviews and TripAdvisor are useless for this and will recommend you useless places which non-Chinese like to eat at.
-
-If you go out on the street by yourself, you are very unlikely to find really good Chinese food.
-
-If there are only Chinese people inside the restaurant, it is a good indicator that it might be good.
-
-**Traiteur**: traiteurs are simpler restaurants that let you see pre-made food and choose how big your portions will be. They are the best way to eat a cheap and balanced meal in Paris, but generally not considered *great* Chinese food.
-
--   So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietnamese / Thai are very rarely very good. Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good).
-
-    It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
-
-    Just beware of "Sichuan" restaurants: their cuisine is so well known even in the West that I've seen many not so good restaurants that describe themselves like that, even if the owners are from another region. But there are many good ones which really are from there as well.
-
-## Other similar lists
-
-- <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
-- <http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/>
 
 ## List
 
@@ -172,7 +180,7 @@ Cheaper / simpler restaurants that are really worth it if you want to not be hun
 
 ## Non-Chinese
 
-Supposing that there is a correlation to liking Chinese.
+Supposing that there is a correlation between liking Chinese food and the following...
 
 Jewish:
 
@@ -210,6 +218,6 @@ Mexican:
 
     Rice could be better.
 
-    Owners are actually from https://en.wikipedia.org/wiki/Tianjin , not Sichuan.
+    Owners are actually from https://en.wikipedia.org/wiki/Tianjin , not Sichuan, as implied by the 川 in the name of the restaurant. GF told me that those big fish dishes are typical from there.
 
     Last checked: 2016/01/09
