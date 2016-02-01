@@ -215,7 +215,7 @@ Mexican:
 
 ## Not in Paris
 
-### Brazil
+### Sao Paulo, Brazil
 
 -   Chuanxiangyuan Restaurante (川香园餐馆 )
 
@@ -230,3 +230,25 @@ Mexican:
     Owners are actually from https://en.wikipedia.org/wiki/Tianjin , not Sichuan, as implied by the 川 in the name of the restaurant. GF told me that those big fish dishes are typical from there.
 
     Last checked: 2016/01/09
+
+### Montreal, Canada
+
+Last checked: 2016/01
+
+-   Cuisine Szechuan
+
+    2350 Rue Guy, Montréal, QC H3H 2M2, Canada
+
+-   Kanbai
+
+    1110 Rue Clark, Montréal, QC H2Z 1K3, Canada Good
+
+-   Délice oriental
+
+    1858 Rue Ste-Catherine O, Montréal, QC H3H 1M1
+
+Not worth it:
+
+-   Chez Chili
+
+    1050B rue Clark
