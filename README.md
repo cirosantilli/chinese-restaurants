@@ -75,10 +75,6 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
     - shui zhu niu rou
     - dishes with intestines
 
--   Délices de Shandong (山东小馆)
-
-    88 Boulevard de l'Hôpital - 75013 Paris
-
 -   La Chine sur la langue (舌尖美味)
 
     163 rue Saint-Denis - 75002 Paris
@@ -110,6 +106,22 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
     25 euros / person.
 
+-   0 d'Attente (锅先生不等位)
+
+    55 Boulevard Saint Marcel, 75013 Paris
+
+    +33 9 81 49 68 06
+
+    <http://www.tripadvisor.com/Restaurant_Review-g187147-d6984996-Reviews-0_d_Attente-Paris_Ile_de_France.html>
+
+    Like style of chairs and cutlery.
+
+    Ironically, the service was not particularly fast as the name indicates. Normal, but  ultra fast as I imagined :-)
+
+    lotus with rice (Nuo mi tang ou) and boeuf sechee (guo xian sheng ...) not very good, but baked fish and https://en.wikipedia.org/wiki/Meigan_cai kaorou were great.
+
+    Last checked: 2016/02
+
 -   Autour du Yangtse (食尚煮意)
 
     12 Rue du Helder - 75009 Paris
@@ -125,6 +137,10 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
     Address: 33 Rue Saint-Sébastien - 75011 Paris
 
     Sichuan style.
+
+-   Délices de Shandong (山东小馆)
+
+    88 Boulevard de l'Hôpital - 75013 Paris
 
 -   Hakka Home
 
