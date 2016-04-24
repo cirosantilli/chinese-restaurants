@@ -7,7 +7,8 @@
 1.  [Tier 2](#tier-2)
 1.  [Non-Chinese](#non-chinese)
 1.  [Not in Paris](#not-in-paris)
-    1.  [Brazil](#brazil)
+    1.  [Sao Paulo, Brazil](#sao-paulo-brazil)
+    1.  [Montreal, Canada](#montreal-canada)
 
 ## Introduction
 
