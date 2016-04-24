@@ -106,6 +106,12 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
     25 euros / person.
 
+-   Carnet de Route
+
+    57 Rue du Faubourg Montmartre - 75009 Paris
+
+    Last checked: 2016/04
+
 -   0 d'Attente (锅先生不等位)
 
     55 Boulevard Saint Marcel, 75013 Paris
@@ -185,6 +191,14 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
 
+-   Ji Bai He
+
+    108 Rue Olivier de Serres, 75015 Paris
+
+    Jiaozi and accompanying small dishes are great.
+
+    Last checked: 2016/03
+
 -   SUCREPICE
 
     5 Rue d'Arras, 75005 Paris
@@ -228,6 +242,14 @@ Mexican:
     30 Rue des Bernardins - 75005 Paris
 
     Tacos de la Merced.
+
+Korean:
+
+-   bekseju Village France
+
+    53 Boulevard Saint-Marcel, 75013 Paris
+
+    Last checked: 2016/03
 
 ## Not in Paris
 
