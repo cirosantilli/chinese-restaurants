@@ -1,5 +1,7 @@
 # Chinese Restaurants in Paris
 
+The best Chinese restaurants in Paris. 巴黎最好吃的中国餐馆。
+
 1.  [Introduction](#introduction)
 1.  [Similar lists](#similar-lists)
 1.  [How to order](#how-to-order)
@@ -20,6 +22,7 @@ Paris has one of the largest Chinese communities outside of China, and there mus
 
 - <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
 - <http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/>
+- <https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris>
 
 ## How to find good restaurants
 
@@ -123,7 +126,7 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
     Like style of chairs and cutlery.
 
-    Ironically, the service was not particularly fast as the name indicates. Normal, but  ultra fast as I imagined :-)
+    Ironically, the service was not particularly fast as the name indicates. Normal, but not ultra fast as I imagined :-)
 
     lotus with rice (Nuo mi tang ou) and boeuf sechee (guo xian sheng ...) not very good, but baked fish and https://en.wikipedia.org/wiki/Meigan_cai kaorou were great.
 
@@ -291,3 +294,11 @@ Not worth it:
 -   Chez Chili
 
     1050B rue Clark
+
+### Sheffield, England
+
+-   China Red Restaurant
+
+    3 Rockingham Gate, Sheffield S1 4JD, United Kingdom
+
+    Last checked: 2016-06, shuizhuyu.
