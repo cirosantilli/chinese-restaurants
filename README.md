@@ -1,16 +1,21 @@
-# Chinese Restaurants in Paris
+# Chinese Restaurants in Paris (巴黎中国餐馆)
 
 The best Chinese restaurants in Paris. 巴黎最好吃的中国餐馆。
 
 1.  [Introduction](#introduction)
 1.  [Similar lists](#similar-lists)
 1.  [How to order](#how-to-order)
-1.  [List](#list)
-1.  [Tier 2](#tier-2)
-1.  [Non-Chinese](#non-chinese)
-1.  [Not in Paris](#not-in-paris)
-    1.  [Sao Paulo, Brazil](#sao-paulo-brazil)
-    1.  [Montreal, Canada](#montreal-canada)
+1.  [France](#france)
+    1.  [Paris](#paris)
+        1.  [Tier 2](#tier-2)
+        1.  [Non-Chinese](#non-chinese)
+    1.  [Marseille](#marseille)
+1.  [UK](#uk)
+    1.  [London](#london)
+    1.  [Cambridge](#cambridge)
+    1.  [Sheffield](#sheffield)
+1.  [Sao Paulo, Brazil](#sao-paulo-brazil)
+1.  [Montreal, Canada](#montreal-canada)
 
 ## Introduction
 
@@ -70,7 +75,13 @@ For all restaurants, ask the waiter for suggestions. Tell him that you:
 
 Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
 
-## List
+## France
+
+## 法国
+
+### Paris
+
+### 巴黎
 
 -   Chez Yong (Ding Ding Xiang, 鼎鼎香)
 
@@ -191,7 +202,7 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
     [Meigan cai](http://en.wikipedia.org/wiki/Meigan_cai) roast pork (梅菜扣肉) <http://img.epochtimes.com/i6/901120923161469.jpg>
 
-## Tier 2
+#### Tier 2
 
 Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
 
@@ -219,9 +230,13 @@ Cheaper / simpler restaurants that are really worth it if you want to not be hun
 
 -   Noodle bar
 
-    - 31 Rue nationale, 75013 Paris, France
+    31 Rue nationale, 75013 Paris, France
 
-## Non-Chinese
+-   Chez Shen
+
+    39 Rue au Maire, 75003 Paris, France
+
+#### Non-Chinese
 
 Supposing that there is a correlation between liking Chinese food and the following...
 
@@ -255,9 +270,63 @@ Korean:
 
     Last checked: 2016/03
 
-## Not in Paris
+### Marseille
 
-### Sao Paulo, Brazil
+### 马赛
+
+-   Shanghai kitchen
+
+    14 Cours Jean Ballard, 13001 Marseille, France
+
+## UK
+
+## 英国
+
+### London
+
+### 伦敦
+
+-   Little Wooden Hut (小木屋)
+
+    Little Newport Street - WC2H 7JJ (Chinatown)
+
+    Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
+
+    Chinese review: http://www.ukchinese.com/News/2016-05-07/15299.html
+
+    Last checked: 2016/08
+
+#### Tier 2
+
+-   Chinese Tapas House
+
+    Little Newport Street - WC2H 7JJ (Chinatown)
+
+    Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
+
+    something bin guo zi - interesting fast food
+
+### Cambridge
+
+### 剑桥
+
+-   Seven Days (天天美食剑桥)
+
+    66 Regent St, Cambridge CB2 1DP
+
+### Sheffield
+
+### 谢菲尔德
+
+-   China Red Restaurant
+
+    3 Rockingham Gate, Sheffield S1 4JD, United Kingdom
+
+    Last checked: 2016/06, shuizhuyu.
+
+## Sao Paulo, Brazil
+
+## 圣保罗，巴西
 
 -   Chuanxiangyuan Restaurante (川香园餐馆 )
 
@@ -273,7 +342,9 @@ Korean:
 
     Last checked: 2016/01/09
 
-### Montreal, Canada
+## Montreal, Canada
+
+## 加拿大蒙特利尔，加拿大
 
 Last checked: 2016/01
 
@@ -294,11 +365,3 @@ Not worth it:
 -   Chez Chili
 
     1050B rue Clark
-
-### Sheffield, England
-
--   China Red Restaurant
-
-    3 Rockingham Gate, Sheffield S1 4JD, United Kingdom
-
-    Last checked: 2016-06, shuizhuyu.
