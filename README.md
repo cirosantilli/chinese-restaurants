@@ -28,6 +28,7 @@ Paris has one of the largest Chinese communities outside of China, and there mus
 - <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
 - <http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/>
 - <https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris>
+- <http://www.newsavour.com/restaurants/> Chinese only, Paris, website subsidiary of some larger Chinese group.
 
 ## How to find good restaurants
 
@@ -85,21 +86,21 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Chez Yong (Ding Ding Xiang, 鼎鼎香)
 
-    42, rue de la Colonie - 75013 Paris
+    42, rue de la Colonie, 75013 Paris
 
     - shui zhu niu rou
     - dishes with intestines
 
 -   La Chine sur la langue (舌尖美味)
 
-    163 rue Saint-Denis - 75002 Paris
+    163 rue Saint-Denis, 75002 Paris
 
     - Spicy soup with Chinese charcuteries. Ma la tang.
     - Large dry and thin bread. Jing dong da bing. 京东大饼. [Picture](http://www.nipic.com/show/1/55/7885c266f22649ae.html).
 
 -   Quatre Amis (那家小馆)
 
-    29 rue de Charenton - 75012 Paris
+    29 rue de Charenton, 75012 Paris
 
     - Fried octopus
     - Shui zhu niu rou
@@ -107,11 +108,11 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Le Céleste Gourmand (福来居, fu lai ju)
 
-    8 Rue de la Tacherie - 75004 Paris
+    8 Rue de la Tacherie, 75004 Paris
 
 -   L'Orient d'Or (福源丰)
 
-    22, Rue de trévise - 75009 Paris
+    22, Rue de trévise, 75009 Paris
 
     - Galettes croustillantes au canard (xiang su ya dai bing, 香酥鸭带饼)
     - Poisson pimentee (suan tang yu, 酸汤鱼)
@@ -123,7 +124,7 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Carnet de Route
 
-    57 Rue du Faubourg Montmartre - 75009 Paris
+    57 Rue du Faubourg Montmartre, 75009 Paris
 
     Last checked: 2016/04
 
@@ -145,7 +146,7 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Autour du Yangtse (食尚煮意)
 
-    12 Rue du Helder - 75009 Paris
+    12 Rue du Helder, 75009 Paris
 
     - Marmite de poisson et de tofu (豆花鱼)
     - Saliva chiken (口水鸡)
@@ -155,25 +156,31 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Deux Fois Plus De Piment (绝代双椒)
 
-    Address: 33 Rue Saint-Sébastien - 75011 Paris
+    Address: 33 Rue Saint-Sébastien, 75011 Paris
 
     Sichuan style.
 
 -   Délices de Shandong (山东小馆)
 
-    88 Boulevard de l'Hôpital - 75013 Paris
+    88 Boulevard de l'Hôpital, 75013 Paris
 
 -   Hakka Home
 
-    3 Rue Voltaire - 75011 Paris
+    3 Rue Voltaire, 75011 Paris
 
     Food from the Hakka people <https://en.wikipedia.org/wiki/Hakka_people>
 
     Most dishes are like other good Chinese restaurants in Paris, but there were a few different ones.
 
+-   Maison Dong (东馆)
+
+    36 Rue Vivienne, 75002 Paris
+
+    Last checked: 2017/04
+
 -   Royal Tching Tao (青岛人家)
 
-    8 Rue du Bel-Air - 75012 Paris
+    8 Rue du Bel-Air, 75012 Paris
 
     - Galettes croustillantes au canard. Shi zi tou.
     - Sweet fish （Song shu gui yu 松鼠桂鱼)
@@ -186,7 +193,7 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Tien Hiang (天香)
 
-    14, rue Bichat - 75010 Paris
+    14, rue Bichat, 75010 Paris
 
     Vegetarian food: most dishes are an imitation of a dish with meat.
 
@@ -196,11 +203,21 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 -   Likafo (利口福酒家)
 
-    39 Avenue de Choisy - 75013 Paris
+    39 Avenue de Choisy, 75013 Paris
 
     <https://www.facebook.com/pages/LIKAFO-%E5%88%A9%E5%8F%A3%E7%A6%8F%E9%85%92%E5%AE%B6/139814799396>
 
     [Meigan cai](http://en.wikipedia.org/wiki/Meigan_cai) roast pork (梅菜扣肉) <http://img.epochtimes.com/i6/901120923161469.jpg>
+
+-   四川人家 Restaurant Sichuan
+
+    31-33 Rue Descartes, 75005 Paris
+
+    Perfect Fuqi feipian.
+
+    Huiguorou is good not my style, I prefer with leek.
+
+    Last checked: 2017/04
 
 #### Tier 2
 
@@ -224,7 +241,7 @@ Cheaper / simpler restaurants that are really worth it if you want to not be hun
 
 -   Noodle No 1
 
-    54 rue Sainte Anne - 75002 Paris
+    54 rue Sainte Anne, 75002 Paris
 
     - Soupe aux nouilles pimentées
 
@@ -236,6 +253,14 @@ Cheaper / simpler restaurants that are really worth it if you want to not be hun
 
     39 Rue au Maire, 75003 Paris, France
 
+-   Dosanko Larmen
+
+    40 Rue Sainte-Anne, 75002 Paris
+
+    Order big portion at your own risk. :-)
+
+    Last checked: 2017/04
+
 #### Non-Chinese
 
 Supposing that there is a correlation between liking Chinese food and the following...
@@ -244,13 +269,13 @@ Jewish:
 
 -   La Boutique Jaune de Sacha Finkelsztajn.
 
-    27 Rue des Rosiers - 75004 Paris
+    27 Rue des Rosiers, 75004 Paris
 
     Pastry shop.
 
 -   L'As Du Fallafel and other nearby fallafel shops.
 
-    32-34 Rue des Rosiers - 75004 Paris
+    32-34 Rue des Rosiers, 75004 Paris
 
     The most basic fallafel dish.
 
@@ -258,7 +283,7 @@ Mexican:
 
 -   Anahuacalli
 
-    30 Rue des Bernardins - 75005 Paris
+    30 Rue des Bernardins, 75005 Paris
 
     Tacos de la Merced.
 
