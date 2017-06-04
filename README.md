@@ -330,6 +330,16 @@ Korean:
     Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
 
     something bin guo zi - interesting fast food
+    
+#### London Non-Chinese
+
+-   Masala zone
+
+    9 Marshall St, Soho, London W1F 7ER
+
+    Thali.
+
+    Last checked: 2017/06
 
 ### Cambridge
 
