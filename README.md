@@ -223,6 +223,14 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
 
+-   Ace Boucherie
+
+    58 Rue Sainte-Anne, 75002 Paris
+
+    Korean take-away traiteur. Very good. Try calamar.
+
+    Last checked: 2017/06
+
 -   Ji Bai He
 
     108 Rue Olivier de Serres, 75015 Paris
