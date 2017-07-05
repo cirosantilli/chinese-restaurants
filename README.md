@@ -84,6 +84,14 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
 ### 巴黎
 
+-   Restaurant Sichuan (川里川外)
+
+    17 Rue le Peletier, 75009 Paris
+
+    Xianglaxie.
+
+    Last checked: 2017/06
+
 -   Chez Yong (Ding Ding Xiang, 鼎鼎香)
 
     42, rue de la Colonie, 75013 Paris
@@ -209,7 +217,7 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 
     [Meigan cai](http://en.wikipedia.org/wiki/Meigan_cai) roast pork (梅菜扣肉) <http://img.epochtimes.com/i6/901120923161469.jpg>
 
--   四川人家 Restaurant Sichuan
+-   Restaurant Sichuan (四川人家)
 
     31-33 Rue Descartes, 75005 Paris
 
@@ -268,6 +276,12 @@ Cheaper / simpler restaurants that are really worth it if you want to not be hun
     Order big portion at your own risk. :-)
 
     Last checked: 2017/04
+
+-   Chez Mamie (外婆家)
+
+    18 Rue du Grenier-Saint-Lazare, 75003 Paris,
+
+    Last checked: 2017/06
 
 #### Non-Chinese
 
