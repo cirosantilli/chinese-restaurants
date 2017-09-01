@@ -367,6 +367,14 @@ Korean:
 
 ### 剑桥
 
+-   Sprint Restaurant (春天)
+
+    66 Mill Rd, Cambridge CB1 2AS
+    
+    Spicy chiken with pasta and potatoes. 
+    
+    Last checked: 2017/08
+
 -   Seven Days (天天美食剑桥)
 
     66 Regent St, Cambridge CB2 1DP
