@@ -352,7 +352,7 @@ Korean:
     Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
 
     something bin guo zi - interesting fast food
-    
+
 #### London Non-Chinese
 
 -   Masala zone
@@ -367,17 +367,23 @@ Korean:
 
 ### 剑桥
 
--   Sprint Restaurant (春天)
+-   Spring Restaurant (春天)
 
     66 Mill Rd, Cambridge CB1 2AS
-    
-    Spicy chiken with pasta and potatoes. 
-    
-    Last checked: 2017/08
+
+    Spicy chicken with pasta and potatoes.
+
+    Last checked: 2017/08
 
 -   Seven Days (天天美食剑桥)
 
     66 Regent St, Cambridge CB2 1DP
+
+-   Golden House
+
+    12 Lensfield Rd, Cambridge CB2 1EG
+
+    Meicaikourou, luobo bing.
 
 ### Sheffield
 
