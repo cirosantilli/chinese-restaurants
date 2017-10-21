@@ -365,6 +365,7 @@ Korean:
 
 ### Cambridge
 
+
 ### 剑桥
 
 -   Spring Restaurant (春天)
@@ -378,6 +379,12 @@ Korean:
 -   Seven Days (天天美食剑桥)
 
     66 Regent St, Cambridge CB2 1DP
+
+-   @72 China
+
+    72 Regent St, Cambridge CB2 1DP
+
+    douhuaniurou 豆花牛肉, kaoyu.
 
 -   Golden House
 
