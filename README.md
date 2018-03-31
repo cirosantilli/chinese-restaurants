@@ -1,6 +1,6 @@
 # Chinese Restaurants in Paris (巴黎中国餐馆)
 
-The best Chinese restaurants in Paris. 巴黎最好吃的中国餐馆。
+The best Chinese restaurants in Paris. 巴黎最好吃的中国餐馆。 Google Maps list: https://goo.gl/maps/zBkmPaU1wLP2
 
 1.  [Introduction](#introduction)
 1.  [Similar lists](#similar-lists)
