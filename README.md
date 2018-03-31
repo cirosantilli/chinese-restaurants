@@ -56,6 +56,8 @@ If there are only Chinese people inside the restaurant, it is a good indicator t
 
 Beware of restaurant *owner changes*: if the menu looks a bit different, it has likely happened.
 
+This is politically incorrect, but here goes: if the place looks as if it is maintained by more recent immigrants, and looks more modern, it is more likely to be good. There are however some venerable older uncles who have cooked well their entire lives and are still fine.
+
 ## How to order
 
 For all restaurants, ask the waiter for suggestions. Tell him that you:
