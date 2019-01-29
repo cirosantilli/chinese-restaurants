@@ -96,18 +96,24 @@ Last checked: 2017/06
 * Quatre Amis (那家小馆)
 +
 29 rue de Charenton, 75012 Paris
++
+--
 ** Fried octopus
 ** Shui zhu niu rou
 ** Anything with intestines
+--
 * Le Céleste Gourmand (福来居, fu lai ju)
 +
 8 Rue de la Tacherie, 75004 Paris
 * L'Orient d’Or (福源丰)
 +
 22, Rue de trévise, 75009 Paris
++
+--
 ** Galettes croustillantes au canard (xiang su ya dai bing, 香酥鸭带饼)
 ** Poisson pimentee (suan tang yu, 酸汤鱼)
 ** Soupe aux cartilages de porc avec algues (hai dai pau gu tang, 海带排骨汤)
+--
 +
 Hunan style.
 +
@@ -135,9 +141,12 @@ Last checked: 2016/02
 * Autour du Yangtse (食尚煮意)
 +
 12 Rue du Helder, 75009 Paris
++
+--
 ** Marmite de poisson et de tofu (豆花鱼)
 ** Saliva chiken (口水鸡)
 ** Aubergines farcies sur plaqua chauffante (铁板脆皮茄)
+--
 +
 http://www.autourduyangtse.com/
 * Deux Fois Plus De Piment (绝代双椒)
@@ -224,7 +233,10 @@ Liang ban mian, but do ask "wei la, they are strong.
 * Noodle No 1
 +
 54 rue Sainte Anne, 75002 Paris
++
+--
 ** Soupe aux nouilles pimentées
+--
 * Noodle bar
 +
 31 Rue nationale, 75013 Paris, France
