@@ -305,36 +305,56 @@ Good existing lists for the UK:
 [[london]]
 === London (伦敦)
 
-* Little Wooden Hut (小木屋)
-+
-Little Newport Street - WC2H 7JJ (Chinatown)
-+
-Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
-+
-Chinese review: http://www.ukchinese.com/News/2016-05-07/15299.html
-+
+[[little-wooden-hut]]
+==== Little Wooden Hut (小木屋)
+
+Address:
+
+....
+Little Newport Street
+WC2H 7JJ
+....
+
 Last checked: 2016/08
 
-* Murger han
-+
-Xi'an food.
-+
-http://www.murgerhan.com/
-+
-Biangbiang noodles with all extras zhongla is amazing!!! Niuroupaomo OK, but not exciting. Roujiamo not very interesting, too bland for my taste.
-+
+Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
+
+Chinese review: http://www.ukchinese.com/News/2016-05-07/15299.html
+
+==== Murger han
+
+Address:
+
+....
+8A Sackville St
+Mayfair, London
+W1S 3EZ
+....
+
+Website: http://www.murgerhan.com/
+
 Last checked: 2019/01
+
+Cuisine: Xi'an
+
+Biangbiang noodles with all extras zhongla is amazing!!! Niuroupaomo OK, but not exciting. Roujiamo not very interesting, too bland for my taste.
 
 [[london-tier-2]]
 ==== Tier 2
 
-* Chinese Tapas House
-+
-Little Newport Street - WC2H 7JJ (Chinatown)
-+
+[[chinese-tapas-house-london]]
+===== Chinese Tapas House
+
+Address:
+
+....
+Little Newport Street
+WC2H 7JJ
+....
+
 Not yet on Google maps so I don know the number, but the street is very small so should be easy to find.
-+
-something bin guo zi - interesting fast food
+
+Jianbing guozi, interesting spicy fast food.
 
 ==== London Non-Chinese
 
@@ -349,25 +369,48 @@ Last checked: 2017/06
 [[cambridge]]
 === Cambridge (剑桥)
 
-*   Spring Restaurant (春天)
-+
-66 Mill Rd, Cambridge CB1 2AS
-+
-Spicy chicken with pasta and potatoes.
-+
+[[spring-restaurant-cambridge]]
+==== Spring Restaurant (春天)
+
+Address:
+
+....
+66 Mill Rd
+CB1 2AS
+....
+
 Last checked: 2017/08
-* Seven Days (天天美食剑桥)
-+
-66 Regent St, Cambridge CB2 1DP
-* @72 China
-+
-72 Regent St, Cambridge CB2 1DP
-+
-douhuaniurou 豆花牛肉, kaoyu.
-* Golden House
-+
-12 Lensfield Rd, Cambridge CB2 1EG
-+
+
+Spicy chicken with pasta and potatoes.
+
+[[seven-days-cambridge]]
+==== Seven Days (天天美食剑桥)
+
+Address:
+
+....
+66 Regent St
+CB2 1DP
+....
+
+==== @72 China
+
+Address:
+
+....
+72 Regent St
+CB2 1DP
+....
+
+Douhuaniurou 豆花牛肉, kaoyu.
+
+==== Golden House
+
+....
+12 Lensfield Rd
+CB2 1EG
+....
+
 Meicaikourou, luobo bing.
 
 [[sheffield]]
