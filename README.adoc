@@ -1,4 +1,4 @@
-= Chinese Restaurants in Paris (巴黎中国餐馆)
+= Chinese Restaurants (中国饭店)
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -9,15 +9,53 @@
 :toclevels: 6
 :toc-title:
 
-The best Chinese restaurants in Paris. 巴黎最好吃的中国餐馆。 Google Maps list: https://goo.gl/maps/zBkmPaU1wLP2
+The best Chinese restaurants I've been to. 我吃过最好吃的中国饭店。 Google Maps list: https://goo.gl/maps/zBkmPaU1wLP2
 
 toc::[]
 
 == Introduction
 
-My wife is a Chinese foodie, and she showed me what _real_ Chinese food is. Here go the best.
+I am on a mission to show Western people what real Chinese food is.
 
-Paris has one of the largest Chinese communities outside of China, and there must be around 10~20 restaurants which serve food unlike anything you have ever eaten.
+My wife is a Chinese foodie, and she showed it to me.
+
+When I first saw it, my mind was completely blown: there it was, one of the best foods in the world by far, and I had never tried it: only a completely watered down boring version that you get when you are not guided by Chinese people.
+
+I must put a stop to this madness.
+
+After you see the light and eat the real version of a dish, then when you go to a not-real restaurant you start to think: hey, I know what dish this was supposed to be. But it could be so much more awesome! This makes non-real restaurants twice as bad. So beware, there is no turning back.
+
+== Rating system
+
+* tier 1: amazing, worth a trip
+* tier 2: worth it, but not exciting, so not worth a trip just for it
+* tier 3: I wouldn't go there
+
+== How to find good restaurants
+
+* go with Chinese food-loving friends to Chinese restaurants
+* read up Chinese restaurant recommendation websites written in Chinese by Chinese for Chinese
+* read up small shady Chinese food recommendation websites by link:https://en.wikipedia.org/wiki/Sinophile[sinophiles like me]
+
+Big Western sites like Google Maps reviews and TripAdvisor are completely and utterly useless for this and will recommend you places in which poor non-Chinese which don't know what real Chinese food is like.
+
+If you go out on the street by yourself, you are very unlikely to find really good Chinese food since the enormous majority of Chinese restaurants are not real Chinese food.
+
+If there are only Chinese clients inside the restaurant, it is a good indicator that it might be good. If all clients people are Western, run away.
+
+Western people don't know what good Chinese food is, so if you are not in a place that has a very large Chinese population, real Chinese food restaurants cannot survive, and won't exist. This usually implies being in large cities of rich countries.
+
+Beware of restaurant owner changes: if the menu looks a bit different, it has likely happened.
+
+This is politically incorrect, but here goes: if the place looks as if it is maintained by more recent immigrants, and looks more modern, it is more likely to be good. There are however some venerable older uncles who have cooked well their entire lives and are still fine. Things tend water down across generations, and there was likely not enough real Chinese clientele for them to serve real Chinese food and survive in the past.
+
+If a restaurant advertises itself as "Asian", it is less likely to be very good.
+
+Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good).
+
+It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
+
+Just beware of "Sichuan" restaurants: their cuisine is so well known even in the West that I've seen many not so good restaurants that describe themselves like that, even if the owners are from another region. But there are many good ones which really are from there as well.
 
 == Similar lists
 
@@ -26,46 +64,19 @@ Paris has one of the largest Chinese communities outside of China, and there mus
 * https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris
 * http://www.newsavour.com/restaurants/ Chinese only, Paris, website subsidiary of some larger Chinese group.
 
-== How to find good restaurants
-
-* talk to Chinese foodies
-* Chinese foodie websites
-* sinophile foodie websites (like this)
-
-Sites like Google reviews and TripAdvisor are useless for this and will recommend you places in which non-Chinese like to eat at.
-
-If you go out on the street by yourself, you are very unlikely to find really good Chinese food.
-
-If there are only Chinese people inside the restaurant, it is a good indicator that it might be good.
-
-* *Traiteurs* are simpler restaurants that let you see pre-made foods in a glass showcase for you to choose how big your portions will be.
-+
-They are the best way to eat a cheap and balanced meal in Paris, but I have never found one that serves exceptional Chinese food.
-* *"Asian"* restaurants which mix either of Chinese / Japanese / Vietnamese / Thai are very rarely very good.
-+
-Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good).
-+
-It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
-+
-Just beware of "Sichuan" restaurants: their cuisine is so well known even in the West that I’ve seen many not so good restaurants that describe themselves like that, even if the owners are from another region. But there are many good ones which really are from there as well.
-
-Beware of restaurant _owner changes_: if the menu looks a bit different, it has likely happened.
-
-This is politically incorrect, but here goes: if the place looks as if it is maintained by more recent immigrants, and looks more modern, it is more likely to be good. There are however some venerable older uncles who have cooked well their entire lives and are still fine.
-
 == How to order
 
 For all restaurants, ask the waiter for suggestions. Tell him that you:
 
-* want the most typical dishes, *not* what the French eat, but what the *Chinese* eat
-* can eat spicy food, way more than any French person can.
+* want the most typical dishes, not what the foreign locals eat, but what the Chinese eat
+* can eat spicy food, way more than any foreign local person can.
 +
-The term is either "zhong1 la2" (medium spicy) for most restaurants, and "wei4 la4" (little spicy) for very spicy places.
+The spice level you generally want is is "zhong1 la2" (medium spicy)
 +
-If you can’t eat spicy, either learn or stop reading now and accept the fact that you will never eat good Chinese food.
+If you can't eat spicy, either learn or stop reading now and accept the fact that you will never eat good Chinese food.
 * if the restaurant is from some region, ask for dishes from the region, and which are different from other regions.
 +
-I was once given https://en.wikipedia.org/wiki/Jiaozi[jiaozi] (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant… Yes, I do believe Tibetans also eat jiaozi! :-)
+I was once given https://en.wikipedia.org/wiki/Jiaozi[jiaozi] (super popular dish everywhere in China which I buy frozen and eat every 3 days) in a Tibetan restaurant... Yes, I do believe Tibetans also eat jiaozi! :-)
 * Speaking a little Chinese goes a long way towards convincing the owners that you can handle the real thing.
 
 Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
@@ -73,8 +84,16 @@ Only order dishes with meat. Those without are not worth the money / time. Auber
 [[france]]
 == France (法国)
 
+Traiteurs are simpler restaurants that let you see pre-made foods in a glass showcase for you to choose how big your portions will be.
+
+They are the best way to eat a cheap and balanced meal in Paris, but I have never found one that serves exceptional Chinese food, so beware.
+
 [[paris]]
 === Paris (巴黎)
+
+Paris has one of the largest Chinese communities outside of China in the whole world centered in the 14eme arrondissement, plus a lot of Chinese students with money around.
+
+As a result, you can find some of the best Chinese food in the world outside of China
 
 * Restaurant Sichuan (川里川外)
 +
@@ -105,7 +124,7 @@ Last checked: 2017/06
 * Le Céleste Gourmand (福来居, fu lai ju)
 +
 8 Rue de la Tacherie, 75004 Paris
-* L'Orient d’Or (福源丰)
+* L'Orient d'Or (福源丰)
 +
 22, Rue de trévise, 75009 Paris
 +
@@ -123,7 +142,7 @@ Hunan style.
 57 Rue du Faubourg Montmartre, 75009 Paris
 +
 Last checked: 2016/04
-* 0 d’Attente (锅先生不等位)
+* 0 d'Attente (锅先生不等位)
 +
 55 Boulevard Saint Marcel, 75013 Paris
 +
@@ -135,7 +154,7 @@ Like style of chairs and cutlery.
 +
 Ironically, the service was not particularly fast as the name indicates. Normal, but not ultra fast as I imagined :-)
 +
-lotus with rice (Nuo mi tang ou) and boeuf sechee (guo xian sheng …) not very good, but baked fish and https://en.wikipedia.org/wiki/Meigan_cai kaorou were great.
+lotus with rice (Nuo mi tang ou) and boeuf sechee (guo xian sheng ...) not very good, but baked fish and https://en.wikipedia.org/wiki/Meigan_cai kaorou were great.
 +
 Last checked: 2016/02
 * Autour du Yangtse (食尚煮意)
@@ -156,7 +175,7 @@ Address: 33 Rue Saint-Sébastien, 75011 Paris
 Sichuan style.
 * Délices de Shandong (山东小馆)
 +
-88 Boulevard de l’Hôpital, 75013 Paris
+88 Boulevard de l'Hôpital, 75013 Paris
 * Hakka Home
 +
 3 Rue Voltaire, 75011 Paris
@@ -205,7 +224,7 @@ Huiguorou is good not my style, I prefer with leek.
 +
 Last checked: 2017/04
 
-==== Tier 2
+==== Paris tier 2
 
 Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
 
@@ -225,7 +244,7 @@ Jiaozi and accompanying small dishes are great.
 Last checked: 2016/03
 * SUCREPICE
 +
-5 Rue d’Arras, 75005 Paris
+5 Rue d'Arras, 75005 Paris
 +
 M10: Cardinal Lemoine
 +
@@ -255,39 +274,6 @@ Last checked: 2017/04
 18 Rue du Grenier-Saint-Lazare, 75003 Paris,
 +
 Last checked: 2017/06
-
-==== Non-Chinese
-
-Supposing that there is a correlation between liking Chinese food and the following…
-
-Jewish:
-
-* La Boutique Jaune de Sacha Finkelsztajn.
-+
-27 Rue des Rosiers, 75004 Paris
-+
-Pastry shop.
-* L’As Du Fallafel and other nearby fallafel shops.
-+
-32-34 Rue des Rosiers, 75004 Paris
-+
-The most basic fallafel dish.
-
-Mexican:
-
-* Anahuacalli
-+
-30 Rue des Bernardins, 75005 Paris
-+
-Tacos de la Merced.
-
-Korean:
-
-* bekseju Village France
-+
-53 Boulevard Saint-Marcel, 75013 Paris
-+
-Last checked: 2016/03
 
 === Marseille (马赛)
 
@@ -339,8 +325,7 @@ Cuisine: Xi'an
 
 Biangbiang noodles with all extras zhongla is amazing!!! Niuroupaomo OK, but not exciting. Roujiamo not very interesting, too bland for my taste.
 
-[[london-tier-2]]
-==== Tier 2
+==== London tier 2
 
 [[chinese-tapas-house-london]]
 ===== Chinese Tapas House
@@ -412,6 +397,31 @@ CB2 1EG
 ....
 
 Meicaikourou, luobo bing.
+
+[[oxford]]
+=== Oxford (牛津)
+
+[[oxford-a-taste-of-china]]
+==== A Taste Of China (三秦百味)
+
+Tier: 2
+
+https://goo.gl/maps/oERKCv6Q8a32
+
+Last checked: 2019/03
+
+Redamian good, Biangbiangmian not as interesting. Nice people working there. Two two seat tables only, mostly takeaway. Fair price.
+
+[[oxford-xi-an]]
+==== Xi'an
+
+Tier: 3
+
+https://goo.gl/maps/DrDCPKWnG2M2
+
+Last checked: 2019/03
+
+Not real Chinese food I'm afraid. Songshuyu not cut correctly into stripes and too much liquid sauce. Sijidou beans not dry enough, maybe need more frying. Early immigration (1968, mentioned on menu), almost no Chinese clients. Nice decoration and environment.
 
 [[sheffield]]
 === Sheffield (谢菲尔德)
