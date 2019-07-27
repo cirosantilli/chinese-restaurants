@@ -1,4 +1,4 @@
-= Chinese Restaurants (中国饭店)
+= Chinese Restaurants 中国饭店
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -13,6 +13,7 @@ The best Chinese restaurants I've been to. 我吃过最好吃的中国饭店。 
 
 toc::[]
 
+[[resturants--introduction]]
 == Introduction
 
 I am on a mission to show Western people what real Chinese food is.
@@ -25,13 +26,15 @@ I must put a stop to this madness.
 
 After you see the light and eat the real version of a dish, then when you go to a not-real restaurant you start to think: hey, I know what dish this was supposed to be. But it could be so much more awesome! This makes non-real restaurants twice as bad. So beware, there is no turning back.
 
-== Rating system
+[[resturants--rating-system]]
+=== Rating system
 
 * tier 1: amazing, worth a trip
 * tier 2: worth it, but not exciting, so not worth a trip just for it
 * tier 3: I wouldn't go there
 
-== How to find good restaurants
+[[resturants--how-to-find-good-restaurants]]
+=== How to find good restaurants
 
 * go with Chinese food-loving friends to Chinese restaurants
 * read up Chinese restaurant recommendation websites written in Chinese by Chinese for Chinese
@@ -57,14 +60,16 @@ It is already difficult to do the cuisine for one part of China well, imagine fo
 
 Just beware of "Sichuan" restaurants: their cuisine is so well known even in the West that I've seen many not so good restaurants that describe themselves like that, even if the owners are from another region. But there are many good ones which really are from there as well.
 
-== Similar lists
+[[resturants--similar-lists]]
+=== Similar lists
 
 * http://carnetdecroute.blogspot.fr/ French only, but similar to this list.
 * http://cnkick.net/2013/09/10/les-meilleurs-restaurants-chinois-de-paris-le-guide-cn-kick/
 * https://www.quora.com/What-are-the-best-Chinese-restaurants-in-Paris
 * http://www.newsavour.com/restaurants/ Chinese only, Paris, website subsidiary of some larger Chinese group.
 
-== How to order
+[[resturants--how-to-order]]
+=== How to order
 
 For all restaurants, ask the waiter for suggestions. Tell him that you:
 
@@ -81,15 +86,15 @@ I was once given https://en.wikipedia.org/wiki/Jiaozi[jiaozi] (super popular dis
 
 Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
 
-[[france]]
-== France (法国)
+[[restaurants--france]]
+== France 法国
 
 Traiteurs are simpler restaurants that let you see pre-made foods in a glass showcase for you to choose how big your portions will be.
 
 They are the best way to eat a cheap and balanced meal in Paris, but I have never found one that serves exceptional Chinese food, so beware.
 
-[[paris]]
-=== Paris (巴黎)
+[[restaurants--paris]]
+=== Paris 巴黎
 
 Paris has one of the largest Chinese communities outside of China in the whole world centered in the 14eme arrondissement, plus a lot of Chinese students with money around.
 
@@ -224,6 +229,7 @@ Huiguorou is good not my style, I prefer with leek.
 +
 Last checked: 2017/04
 
+[[resturants--paris-tier-2]]
 ==== Paris tier 2
 
 Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
@@ -275,24 +281,25 @@ Last checked: 2017/04
 +
 Last checked: 2017/06
 
-=== Marseille (马赛)
+[[resturants--marseille-]]
+=== Marseille 马赛
 
 * Shanghai kitchen
 +
 14 Cours Jean Ballard, 13001 Marseille, France
 
-[[uk]]
-== UK (英国)
+[[restaurants--uk]]
+== UK 英国
 
 Good existing lists for the UK:
 
 * https://www.honglingjin.co.uk/category/foods-and-restaurants-in-the-uk/chinese-restaurants
 
-[[london]]
-=== London (伦敦)
+[[restaurants--london]]
+=== London 伦敦
 
-[[little-wooden-hut]]
-==== Little Wooden Hut (小木屋)
+[[restaurants--little-wooden-hut]]
+==== Little Wooden Hut 小木屋
 
 Address:
 
@@ -307,6 +314,7 @@ Not yet on Google maps so I don know the number, but the street is very small so
 
 Chinese review: http://www.ukchinese.com/News/2016-05-07/15299.html
 
+[[resturants--murger-han]]
 ==== Murger han
 
 Address:
@@ -325,9 +333,10 @@ Cuisine: Xi'an
 
 Biangbiang noodles with all extras zhongla is amazing!!! Niuroupaomo OK, but not exciting. Roujiamo not very interesting, too bland for my taste.
 
+[[resturants--london-tier-2]]
 ==== London tier 2
 
-[[chinese-tapas-house-london]]
+[[restaurants--chinese-tapas-house-london]]
 ===== Chinese Tapas House
 
 Address:
@@ -341,8 +350,8 @@ Not yet on Google maps so I don know the number, but the street is very small so
 
 Jianbing guozi, interesting spicy fast food.
 
-[[london-rice-coming-restaurant]]
-===== Rice Coming Restaurant (米齐临)
+[[restaurants--london-rice-coming-restaurant]]
+===== Rice Coming Restaurant 米齐临
 
 Rice noodles are good, and small dishes authentic.
 
@@ -352,6 +361,7 @@ Last checked: 2019-04
 
 Website: https://ricecoming.business.site/
 
+[[resturants--london-non-chinese]]
 ==== London Non-Chinese
 
 * Masala zone
@@ -362,11 +372,11 @@ Thali.
 +
 Last checked: 2017/06
 
-[[cambridge]]
-=== Cambridge (剑桥)
+[[restaurants--cambridge]]
+=== Cambridge 剑桥
 
-[[spring-restaurant-cambridge]]
-==== Spring Restaurant (春天)
+[[restaurants--spring-restaurant-cambridge]]
+==== Spring Restaurant 春天
 
 Address:
 
@@ -379,8 +389,8 @@ Last checked: 2017/08
 
 Spicy chicken with pasta and potatoes.
 
-[[seven-days-cambridge]]
-==== Seven Days (天天美食剑桥)
+[[restaurants--seven-days-cambridge]]
+==== Seven Days 天天美食剑桥
 
 Address:
 
@@ -389,6 +399,7 @@ Address:
 CB2 1DP
 ....
 
+[[resturants---72-china]]
 ==== @72 China
 
 Address:
@@ -400,6 +411,7 @@ CB2 1DP
 
 Douhuaniurou 豆花牛肉, kaoyu.
 
+[[resturants--golden-house]]
 ==== Golden House
 
 Address:
@@ -411,7 +423,7 @@ CB2 1EG
 
 Meicaikourou, luobo bing.
 
-[[cambridge-1-1-rougamo]]
+[[restaurants--cambridge-1-1-rougamo]]
 ==== 1 + 1 Rougamo
 
 Tier: 2
@@ -427,11 +439,11 @@ Last checked: 2019/05
 
 Roujiamo very good. Also good: broad noodles, 凉皮.
 
-[[oxford]]
-=== Oxford (牛津)
+[[restaurants--oxford]]
+=== Oxford 牛津
 
-[[oxford-a-taste-of-china]]
-==== A Taste Of China (三秦百味)
+[[restaurants--oxford-a-taste-of-china]]
+==== A Taste Of China 三秦百味
 
 Tier: 2
 
@@ -441,7 +453,7 @@ Last checked: 2019/03
 
 Redamian good, Biangbiangmian not as interesting. Nice people working there. Two two seat tables only, mostly takeaway. Fair price.
 
-[[oxford-xi-an]]
+[[restaurants--oxford-xi-an]]
 ==== Xi'an
 
 Tier: 3
@@ -452,8 +464,8 @@ Last checked: 2019/03
 
 Not real Chinese food I'm afraid. Songshuyu not cut correctly into stripes and too much liquid sauce. Sijidou beans not dry enough, maybe need more frying. Early immigration (1968, mentioned on menu), almost no Chinese clients. Nice decoration and environment.
 
-[[sheffield]]
-=== Sheffield (谢菲尔德)
+[[restaurants--sheffield]]
+=== Sheffield 谢菲尔德
 
 * China Red Restaurant
 +
@@ -461,8 +473,8 @@ Not real Chinese food I'm afraid. Songshuyu not cut correctly into stripes and t
 +
 Last checked: 2016/06, shuizhuyu.
 
-[[sao-paulo]]
-== Sao Paulo, Brazil (圣保罗，巴西)
+[[restaurants--sao-paulo]]
+== Sao Paulo, Brazil 圣保罗，巴西
 
 * Chuanxiangyuan Restaurante (川香园餐馆 )
 +
@@ -478,8 +490,8 @@ Owners are actually from https://en.wikipedia.org/wiki/Tianjin , not Sichuan, as
 +
 Last checked: 2016/01/09
 
-[[montreal]]
-== Montreal, Canada (加拿大蒙特利尔，加拿大)
+[[restaurants--montreal]]
+== Montreal, Canada 加拿大蒙特利尔，加拿大
 
 Last checked: 2016/01
 
